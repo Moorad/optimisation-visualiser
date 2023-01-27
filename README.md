@@ -13,7 +13,7 @@ None yet.
 
 # Todo list
 
--   [ ] Initial setup
+-   [x] Initial setup
 -   [ ] Implement Random Search
 -   [ ] Implement Simulated Annealing
 -   [ ] Ant colony
